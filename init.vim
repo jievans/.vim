@@ -11,3 +11,4 @@ let g:CommandTMatchWindowReverse = 1
 
 set t_Co=256
 colorscheme lucius
+LuciusLight
